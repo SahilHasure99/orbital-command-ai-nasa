@@ -1,126 +1,139 @@
 # 🚀 ORBITAL COMMAND AI
 ### Design. Launch. Survive. Discover.
 
-**An AI-powered interactive space mission design and simulation platform.**
+<p align="center">
+  <b>An Interactive Space Mission Design & Simulation Experience</b>
+</p>
 
-ORBITAL COMMAND AI is an immersive space mission control simulator designed to make complex space mission planning more interactive, visual, and accessible.
+<p align="center">
+  <a href="https://orbital-command-ai-nasa.vercel.app/">
+    <img src="https://img.shields.io/badge/🚀_LIVE_DEMO-Launch_Application-0B6E99?style=for-the-badge" alt="Live Demo">
+  </a>
+  <a href="https://github.com/SahilHasure99/orbital-command-ai">
+    <img src="https://img.shields.io/badge/GitHub-Source_Code-black?style=for-the-badge&logo=github" alt="GitHub">
+  </a>
+</p>
 
-The platform allows users to explore spacecraft concepts, understand mission requirements, visualize space environments, and experience the process of designing and launching a space mission through an interactive interface.
+---
 
-Built for the **NASA Space Apps Challenge 2026**, our project aims to bring space exploration, mission planning, and interactive simulation together in one platform.
+## 🌌 About the Project
+
+**ORBITAL COMMAND AI** is an interactive space mission design and simulation platform developed for the **NASA International Space Apps Challenge 2026**.
+
+Space exploration requires more than launching a spacecraft. Every mission involves complex engineering decisions, scientific objectives, resource constraints, and operational challenges.
+
+Our project aims to make these concepts more accessible through an immersive, space-themed mission control experience.
+
+By combining interactive visualizations, mission-related functionality, and an engaging user interface, ORBITAL COMMAND AI provides an environment for exploring the exciting world of space mission planning.
+
+## 🚀 Live Demo
+
+### Experience ORBITAL COMMAND AI
+
+**🔗 https://orbital-command-ai-nasa.vercel.app/**
+
+Explore the application directly in your browser and experience its interactive space environment.
 
 ---
 
-## 🌌 Project Overview
+## 🎯 Problem Statement
 
-Designing a successful space mission requires balancing multiple competing factors, including:
+Designing a successful space mission requires balancing several interconnected factors:
 
-- Mission objectives
-- Spacecraft design
-- Scientific instruments
-- Launch vehicles
-- Mass and payload constraints
-- Mission budgets
-- Orbital constraints
-- Communication systems
-- Power requirements
+- Mission objectives and scientific requirements
+- Spacecraft and launch vehicle selection
+- Fuel consumption and payload mass
+- Power and resource limitations
+- Communication requirements
+- Orbital conditions and mission constraints
+- Mission risks and operational challenges
 
-ORBITAL COMMAND AI aims to simplify this complex process through an interactive mission simulation experience.
+Understanding these relationships can be difficult for students and beginners.
 
-Instead of learning about mission planning only through theory, users can explore a visual environment that brings the mission design process closer to reality.
+### Our Approach
 
----
+We aim to simplify the exploration of space mission concepts through an interactive digital experience that combines visualization, simulation, and mission-oriented functionality.
 
 ## ✨ Key Features
 
-### 🚀 1. Interactive Rocket Visualization
-- Immersive 3D rocket visualization.
-- Spacecraft and launch vehicle exploration.
-- Visual launch experience.
-- Interactive space-themed environment.
-
-### 🌍 2. Space Environment Visualization
-- Explore Earth and space environments.
-- Immersive planetary visualization.
-- Space-inspired 3D interface.
-- Visual exploration of the solar system.
-
-### 🛰️ 3. Mission Control Experience
-- Space mission control-inspired dashboard.
-- Mission information and status visualization.
-- Interactive mission interface.
-- Space exploration experience.
-
-### 🎬 4. Rocket Launch Simulation
-- Animated rocket launch experience.
-- Visual launch sequence.
-- Immersive cinematic presentation.
-- Interactive simulation environment.
-
-### 🧠 5. Mission Design Exploration
-- Explore important mission design considerations.
-- Understand spacecraft and launch vehicle requirements.
-- Learn about mission constraints and trade-offs.
-- Experience the fundamentals of space mission planning.
-
----
-
-## 🎯 Problem We Are Solving
-
-Space mission design involves complex engineering decisions that can be difficult for students and beginners to understand.
-
-Traditional learning resources often present these concepts separately, making it challenging to visualize how different mission components work together.
-
-**Our Approach:**
-
-ORBITAL COMMAND AI brings these concepts into an interactive digital environment where users can explore space mission elements visually and understand the relationships between different mission requirements.
-
-Our goal is to make space mission exploration more engaging, understandable, and accessible.
-
----
+| Feature | Description |
+|---|---|
+| 🚀 3D Rocket Visualization | Immersive rocket models and space-themed visuals. |
+| 🌍 Space Environment | An engaging visual representation of the space environment. |
+| 🛰️ Mission Control Dashboard | A centralized interface for exploring mission-related information. |
+| 🔥 Rocket Launch Animation | Animated launch sequences for an immersive experience. |
+| 🌌 Interactive Interface | Engaging visual elements and user interactions. |
+| 🎮 Mission Simulation | An interactive experience focused on space mission exploration. |
+| 📊 Mission Information | Visual presentation of mission-related information. |
 
 ## 🛠️ Technology Stack
 
-The project uses modern web development technologies to create an interactive space simulation experience.
+The project uses modern web technologies to create an interactive application.
 
 | Technology | Purpose |
 |---|---|
 | HTML5 | Application structure |
-| CSS3 | Styling and animations |
-| JavaScript | Interactive functionality |
-| Vite | Development server and build tool |
-| 3D Graphics | Spacecraft and environment visualization |
-| Git & GitHub | Version control and collaboration |
+| CSS3 | Styling and responsive interface |
+| JavaScript | Application logic and interactions |
+| Vite | Development server and build tooling |
+| 3D Web Graphics | Rocket and space visualizations |
 
-*Update this list if your final implementation uses additional frameworks or libraries.*
+*Refer to the project source code for the exact libraries and frameworks used.*
 
----
+## 🖥️ Project Preview
 
-## 🖥️ Project Screenshots
+Add screenshots or GIFs of the actual application to showcase its interface.
 
-Add your actual project screenshots here.
+Recommended screenshots:
 
-### Mission Control Dashboard
-<!-- Add dashboard screenshot -->
+- Mission Control Dashboard
+- 3D Rocket Model
+- Rocket Launch Animation
+- Space Environment
+- Mission Simulation Interface
 
-### 3D Rocket Visualization
-<!-- Add rocket screenshot -->
+Example:
 
-### Space Environment
-<!-- Add Earth / solar system screenshot -->
+```markdown
+![Mission Control](screenshots/dashboard.png)
+![Rocket Visualization](screenshots/rocket.png)
+![Launch Animation](screenshots/launch.gif)
+```
 
-### Rocket Launch Simulation
-<!-- Add launch animation screenshot -->
+## 🧠 Project Development & Team Contributions
 
----
+ORBITAL COMMAND AI was customized and enhanced by our team for the NASA International Space Apps Challenge 2026.
 
-## ⚙️ Installation & Setup
+Using an existing project as its foundation, our team independently worked on additional development, customization, and improvements.
 
-Follow these steps to run ORBITAL COMMAND AI locally.
+### Our Contributions
+
+- **UI/UX Enhancement:** Improved the overall interface, visual design, and user experience.
+- **Mission Control Dashboard:** Customized and enhanced the mission control environment.
+- **Space Mission Simulation:** Improved interactive elements and the mission simulation experience.
+- **Mission Management:** Enhanced mission-related functionality and interactions.
+- **3D Space Visualization:** Improved rocket visualization and space-themed visual elements.
+- **Launch Experience:** Enhanced rocket launch animations and visual presentation.
+- **Additional Enhancements:** Implemented further improvements to the existing application.
+
+## 👥 Project Team
+
+Developed collaboratively by six team members.
+
+| No. | Team Member |
+|:---:|---|
+| 01 | Sahil E. Hasure |
+| 02 | Harshad S. Desai |
+| 03 | Shivprasad J. Kesarkar |
+| 04 | Premraj M. Pattade |
+| 05 | Adinath D. Kumbhar |
+| 06 | Ninad S. Shityalkar |
+
+## ⚙️ Run Locally
+
+Follow these steps to run ORBITAL COMMAND AI on your computer.
 
 ### Prerequisites
-
-Make sure you have installed:
 
 - Node.js
 - npm
@@ -144,120 +157,70 @@ cd orbital-command-ai
 npm install
 ```
 
-### 4. Start Development Server
+### 4. Start the Development Server
 
 ```bash
 npm run dev
 ```
 
-### 5. Open in Browser
-
-Visit:
+### 5. Open in Your Browser
 
 ```text
-http://localhost:5173
+http://localhost:5173/
 ```
 
-### 6. Create Production Build
+### 6. Create a Production Build
 
 ```bash
 npm run build
 ```
 
----
+## 🌠 Our Vision
 
-## 📁 Project Structure
+We believe that understanding space exploration should be an engaging and accessible experience.
 
-```text
-orbital-command-ai/
-│
-├── public/
-│   └── Static assets
-│
-├── src/
-│   ├── Components/
-│   ├── Assets/
-│   ├── Pages/
-│   ├── Styles/
-│   └── Main application files
-│
-├── index.html
-├── package.json
-├── package-lock.json
-├── vite.config.js
-├── README.md
-└── LICENSE
-```
+Through ORBITAL COMMAND AI, we aim to bring the concepts of mission planning, spacecraft design, and space exploration closer to students, developers, and space enthusiasts.
 
-*The structure above is illustrative. Adjust folder names to match your actual source code.*
+**Think like a mission engineer. Design like a scientist. Launch like a space explorer.**
 
----
+## 🏆 Hackathon Information
 
-## 👨‍🚀 Team
-
-**Developed collaboratively by Team ORBITAL COMMAND AI**
-
-NASA Space Apps Challenge 2026
-
-| Team Member | Role |
+| Category | Details |
 |---|---|
-| Member 1 | Project Development |
-| Member 2 | Frontend Development |
-| Member 3 | 3D Visualization |
-| Member 4 | Simulation & Logic |
-| Member 5 | Research & Mission Design |
-| Member 6 | Presentation & Documentation |
+| Event | NASA International Space Apps Challenge 2026 |
+| Project | ORBITAL COMMAND AI |
+| Domain | Space Exploration & Mission Simulation |
+| Tagline | Design. Launch. Survive. Discover. |
+| Deployment | Vercel |
+| Team Size | 6 Members |
 
-*Replace these role labels with your actual team members and responsibilities.*
+## 📌 Acknowledgment & Attribution
 
----
+ORBITAL COMMAND AI is an enhanced and customized project built using an existing project as its foundation.
 
-## 🌟 Our Vision
+We sincerely acknowledge the original developers and contributors for their initial codebase, ideas, and resources.
 
-We believe that space exploration should be easier to understand, explore, and experience.
+Our team has independently worked on extending and customizing the existing foundation through additional development, interface improvements, interactive features, and visual enhancements.
 
-Our vision is to create an interactive platform that connects technology, visualization, and space science to inspire the next generation of space explorers and engineers.
+We respect the original project's ownership, copyright notices, and applicable licensing requirements. Original license and attribution information is retained in the repository in accordance with its terms.
 
-**Think beyond Earth. Design beyond limits. Explore beyond imagination.**
-
----
-
-## 🏆 Challenge
-
-**NASA Space Apps Challenge 2026**
-
-Challenge Theme: Space Mission Design and Simulation
-
-Our project explores how interactive digital experiences can help users understand the complex considerations involved in designing space missions.
-
-*This project is an independent hackathon submission and is not an official NASA product or affiliated with NASA.*
-
----
-
-## 📜 Credits & Attribution
-
-ORBITAL COMMAND AI is an enhanced and modified project developed by our team using an existing project as its foundation.
-
-Our contributions include improvements to the user interface, visual experience, interactive elements, space-themed presentation, and mission simulation experience.
-
-We acknowledge the original project's developers and respect the applicable licensing terms.
-
----
+**Transparency Statement:** Our team claims credit for the modifications, enhancements, and contributions made by us, not for the original work.
 
 ## 📄 License
 
-This project retains the applicable original MIT License terms.
-
-Please refer to the `LICENSE` file for the original copyright notice and license conditions.
+Please refer to the repository's `LICENSE` file for the applicable license and usage conditions.
 
 ---
 
-<div align="center">
-
-### 🚀 ORBITAL COMMAND AI
-
-**DESIGN. LAUNCH. SURVIVE. DISCOVER.**
-
-*Exploring the future of interactive space mission design.*
-
-</div>
+<p align="center">
+  <h3>🚀 ORBITAL COMMAND AI</h3>
+  <b>Design. Launch. Survive. Discover.</b>
+  <br><br>
+  <a href="https://orbital-command-ai-nasa.vercel.app/">
+    <strong>Explore the Live Demo →</strong>
+  </a>
+  <br><br>
+  Built with passion for space exploration.
+  <br>
+  NASA International Space Apps Challenge 2026
+</p>
